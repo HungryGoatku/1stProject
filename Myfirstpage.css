@@ -1,0 +1,26 @@
+
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    text-align: center;
+}
+
+div{
+    font-size: medium;
+}
+
+#list{
+    font-size: medium;
+    text-align: center;
+}
+
+body{
+    background-color: tan;
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
